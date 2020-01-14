@@ -1,0 +1,87 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "",
+                "Name": "eogan"
+            },
+            {
+                "Email": "s-niederberger@outlook.com",
+                "Name": "Sven Niederberger"
+            }
+        ],
+        "Id": "earth-dynamic-wallpaper",
+        "Name": "Earth by eogan"
+    },
+    "Wallpaper": {
+        "Preview": "preview.jpeg",
+        "Smooth": false,
+        "Type": "timed",
+        "MetaData": [
+            {
+                "Time": 0,
+                "FileName": "1.jpeg"
+            },
+            {
+                "Time": 0.0625,
+                "FileName": "2.jpeg"
+            },
+            {
+                "Time": 0.125,
+                "FileName": "3.jpeg"
+            },
+            {
+                "Time": 0.1875,
+                "FileName": "4.jpeg"
+            },
+            {
+                "Time": 0.025,
+                "FileName": "5.jpeg"
+            },
+            {
+                "Time": 0.3125,
+                "FileName": "6.jpeg"
+            },
+            {
+                "Time": 0.375,
+                "FileName": "7.jpeg"
+            },
+            {
+                "Time": 0.4375,
+                "FileName": "8.jpeg"
+            },
+            {
+                "Time": 0.5,
+                "FileName": "9.jpeg"
+            },
+            {
+                "Time": 0.5625,
+                "FileName": "10.jpeg"
+            },
+            {
+                "Time": 0.625,
+                "FileName": "11.jpeg"
+            },
+            {
+                "Time": 0.6875,
+                "FileName": "12.jpeg"
+            },
+            {
+                "Time": 0.75,
+                "FileName": "13.jpeg"
+            },
+            {
+                "Time": 0.8125,
+                "FileName": "14.jpeg"
+            },
+            {
+                "Time": 0.875,
+                "FileName": "15.jpeg"
+            },
+            {
+                "Time": 0.9375,
+                "FileName": "16.jpeg"
+            }
+        ]
+    }
+}

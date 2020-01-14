@@ -1,4 +1,5 @@
-![Preview](preview.jpeg)
-Earth dynamic wallpaper
+![Preview](contents/images/preview.jpeg)
 
-This is a wallpaper for dynamic-wallpaper-1.5.1 for KDE.
+Earth Dynamic Wallpaper
+
+This is a wallpaper for dynamic-wallpaper-2.6 for KDE.
